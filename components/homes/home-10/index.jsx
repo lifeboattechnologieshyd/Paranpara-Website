@@ -67,7 +67,7 @@ export default function Home10({ onePage = false, dark = false }) {
                   <Image
                     width={500}
                     height={692}
-                    src="/assets/images/demo-strong/section-image-1.jpg"
+                    src="/assets/images/demo-strong/section-image-1.jpg" // group of creaters left - back
                     alt="Image description"
                     className="wow scaleOutIn"
                     data-wow-duration="1.2s"
@@ -77,7 +77,7 @@ export default function Home10({ onePage = false, dark = false }) {
                   <Image
                     width={500}
                     height={692}
-                    src="/assets/images/demo-strong/section-image-2.jpg"
+                    src="/assets/images/demo-strong/section-image-2.jpg"   // group of creaters left - front
                     alt="Image description"
                     className="wow scaleOutIn"
                     data-wow-duration="1.2s"
@@ -137,7 +137,7 @@ export default function Home10({ onePage = false, dark = false }) {
                 <Image
                   width={330}
                   height={894}
-                  src="/assets/images/demo-strong/section-image-3.jpg"
+                  src="/assets/images/demo-strong/section-image-3.jpg" // group of creaters right - front
                   alt="Image description"
                   className="wow scaleOutIn"
                   data-wow-duration="1.2s"
@@ -156,10 +156,14 @@ export default function Home10({ onePage = false, dark = false }) {
       >
         <div className="container">
           <div className="row">
-            {/* Left Column */}
+            {/* Left Column 
+            
+            FOR IMAGES GO TO TEAM.JS
+            
+            */}
             <div className="col-xl-5 d-flex align-items-center team-1-column-sticky mb-lg-90 mb-sm-50">
               <div>
-                <h2 className="section-caption-border">Our Team</h2>
+                <h2 className="section-caption-border">Our Team</h2>  
                 <h3 className="section-title-strong mb-40">
                   Meet the<span className="font-alt">team of</span> experts
                 </h3>
@@ -197,6 +201,12 @@ export default function Home10({ onePage = false, dark = false }) {
             {/* Right Column */}
             <div className="col-xl-6 offset-xl-1">
               <Team />
+              {/*
+        visit team component
+        
+        */}
+
+
             </div>
             {/* End Right Column */}
           </div>
@@ -223,6 +233,11 @@ export default function Home10({ onePage = false, dark = false }) {
           {/* Nav tabs */}
 
           <Service />
+
+          {/*
+        visit services component
+        
+        */}
           {/* End Tab panes */}
         </div>
       </section>
@@ -241,7 +256,7 @@ export default function Home10({ onePage = false, dark = false }) {
                 <Image
                   width={192}
                   height={222}
-                  src="/assets/images/demo-strong/decoration.svg"
+                  src="/assets/images/demo-strong/decoration.svg" // background image for - LOOKING FOR EXCLISIVE - content
                   alt=""
                 />
               </div>
@@ -290,7 +305,7 @@ export default function Home10({ onePage = false, dark = false }) {
               <Image
                 width={1100}
                 height={930}
-                src="/assets/images/demo-strong/split-image-1.jpg"
+                src="/assets/images/demo-strong/split-image-1.jpg" // beside image of - LOOKING FOR EXCLISIVE - content
                 alt="Image Description"
               />
             </div>
@@ -303,7 +318,11 @@ export default function Home10({ onePage = false, dark = false }) {
         }`}
         id="portfolio"
       >
-        <Portfolio />
+        <Portfolio />  {/*
+        visit portfolio component
+        visit porfolio.js to upload images 
+        
+        */}
       </section>
       <hr className={`mt-0 mb-0 ${dark ? "white" : ""} `} />
       <section
@@ -312,6 +331,11 @@ export default function Home10({ onePage = false, dark = false }) {
         }`}
       >
         <Features />
+
+        {/*
+        visit features component
+        
+        */}
       </section>
       <section className="pt-30">
         <div id="paddingRightContainer" className="container" />
@@ -331,7 +355,7 @@ export default function Home10({ onePage = false, dark = false }) {
                 <Image
                   width={192}
                   height={222}
-                  src="/assets/images/demo-strong/decoration.svg"
+                  src="/assets/images/demo-strong/decoration.svg" // bg image for - FLEXIBLE RESPONSIVE  - CONTENT
                   alt=""
                 />
               </div>
@@ -372,7 +396,7 @@ export default function Home10({ onePage = false, dark = false }) {
               <Image
                 width={1100}
                 height={930}
-                src="/assets/images/demo-strong/split-image-2.jpg"
+                src="/assets/images/demo-strong/split-image-2.jpg" // right side image of - FLEXIBLE RESPONSIVE  - CONTENT
                 alt="Image Description"
               />
               {/* Circle Text */}
@@ -410,6 +434,11 @@ export default function Home10({ onePage = false, dark = false }) {
             </div>
           </div>
           <Testimonials />
+
+          {/*
+          
+          go to testimonials component
+          */}
         </div>
       </section>
       <hr className={`mt-0 mb-0 ${dark ? "white" : ""} `} />
@@ -420,15 +449,25 @@ export default function Home10({ onePage = false, dark = false }) {
         id="blog"
       >
         <Blog />
+
+       {/*
+          
+          go to BLOGS component
+          */}
       </section>
       <section
         className="page-section bg-dark-1 light-content"
         style={{
           backgroundImage:
-            "url(/assets/images/full-width-images/section-bg-2.jpg)",
+            "url(/assets/images/full-width-images/section-bg-2.jpg)", // background image between LATEST NEWS and LETS WORK TOGETHER
         }}
       >
         <Newsletter />
+
+         {/*
+          
+          go to NEWSLETTER component
+          */}
       </section>
       <section
         className={`page-section  scrollSpysection  ${
@@ -437,6 +476,10 @@ export default function Home10({ onePage = false, dark = false }) {
         id="contact"
       >
         <Contact />
+         {/*
+          
+          go to contact component
+          */}
       </section>
     </>
   );

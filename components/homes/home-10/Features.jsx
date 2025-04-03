@@ -33,7 +33,12 @@ export default function Features() {
         <div className="row">
           <div className="col-11 col-lg-10 offset-1 px-md-4">
             <div className="row gx-huge">
-              {/* Features Item */}
+              {/* Features Item 
+              
+              also visit feature.js to upload icons and titile and number and description
+              
+              
+              */}
               {featuresData.map((item, index) => (
                 <div key={index} className={`col-md-6 ${item.parentClass}`}>
                   <div className="position-relative">

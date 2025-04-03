@@ -2,7 +2,7 @@ export const portfolioItems = [
   {
     id: 1,
     href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/demo-strong/portfolio/1.jpg",
+    imgSrc: "/assets/images/demo-strong/portfolio/1.jpg",  // portfolio images
     imgAlt: "Image Description",
     title: "Rise of Design",
     descr: "Branding, UI/UX Design",

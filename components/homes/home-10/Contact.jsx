@@ -22,7 +22,7 @@ export default function Contact() {
             <Image
               width={1080}
               height={516}
-              src="/assets/images/demo-strong/section-image-5.jpg"
+              src="/assets/images/demo-strong/section-image-5.jpg" // side image of - LETS WORK TOGETHER - CONTENT
               alt="Image Description"
               className="wow scaleOutIn"
               data-wow-offset={110}
@@ -31,7 +31,11 @@ export default function Contact() {
         </div>
       </div>
       <div className="row wow fadeInUp" data-wow-delay="0.27s">
-        {/* Contact Info */}
+        {/* Contact Info 
+        
+        go for contact.js for changes 
+        
+        */}
         <div className="col-lg-5 col-xl-4 mb-md-90 mb-sm-50">
           <div className="contact-2">
             {/* Contact Info Item */}

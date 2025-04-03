@@ -128,6 +128,9 @@ export default function Home10ImageParallaxMultiPage() {
           </main>
           <footer className="footer-1 bg-dark-1 light-content">
             <Footer9 />
+
+            {/*
+            GO TO FOOTER COMPONENT FROM HERE */}
           </footer>
         </div>
       </div>{" "}

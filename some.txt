@@ -1,0 +1,3 @@
+for portfolio - go to portfolio.js in which go for portfolios10 function 
+
+for blogs - go to blogs.js and go for blog10 function 

@@ -33,7 +33,11 @@ export default function Testimonials() {
           display: "block",
         }}
       >
-        {/* Team item */}
+        {/* Team item 
+
+        go for testimonials3 in testimonial.js
+        
+        */}
         {testimonials3.map((elm, i) => (
           <SwiperSlide className="owl-item" key={i}>
             <div className="testimonials-3-item ">

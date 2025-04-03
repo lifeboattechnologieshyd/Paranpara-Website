@@ -29,7 +29,12 @@ export default function Blog() {
       </div>
       {/* Blog Grid */}
       <div className="row gy-4">
-        {/* Post Item */}
+        {/* Post Item 
+        
+        GO FOR blogs.js to make changes [[[kj
+        ]]]
+        
+        */}
         {blogs8.map((post, index) => (
           <div
             key={index}

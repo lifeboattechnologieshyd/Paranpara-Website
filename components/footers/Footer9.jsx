@@ -20,7 +20,11 @@ export default function Footer9() {
             © IB-Themes {new Date().getFullYear()}.
           </div>
           {/* End Copyright */}
-          {/* Social Links */}
+          {/* Social Links 
+          
+          GO TO FOOTER.JS AS WELL
+          
+          */}
           <div className="col-lg-6 footer-social-links text-center mb-md-40">
             {socialMediaLinks.map((elm, i) => (
               <a

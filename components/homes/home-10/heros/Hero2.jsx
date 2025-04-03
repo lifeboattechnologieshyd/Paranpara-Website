@@ -14,9 +14,8 @@ export default function Hero2() {
             </h2>
             <h1 className="hs-title-13 mb-50 mb-sm-40">
               <span className="wow charsAnimIn" data-splitting="chars">
-                Elevate
-                <span className="font-alt"> the digital</span> experience with
-                Resonance <span className="font-alt">studio</span>.
+              Reimagining 
+                <span className="font-alt">  Learning with AI & Tech </span> for Schools, Teachers & Parents <span className="font-alt"></span>.
               </span>
             </h1>
             <div className="local-scroll wow fadeInUp" data-wow-delay="0.65s">
