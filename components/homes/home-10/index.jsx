@@ -52,11 +52,11 @@ export default function Home10({ onePage = false, dark = false }) {
         <div className="container">
           <div className="row">
             <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
-              <h2 className="section-caption-border">About Agency</h2>
+              <h2 className="section-caption-border">About ParanPara</h2>
               <h3 className="section-title-strong mb-90 mb-sm-50">
-                Group <span className="font-alt">of</span> Creators
-                <span className="font-alt">and</span> Minimalism Lovers
-              </h3>
+              Smart Solutions <span className="font-alt">for</span> Smarter Education
+                <span className="font-alt"> &</span> Stronger Futures
+              </h3>   
             </div>
           </div>
 
@@ -90,16 +90,10 @@ export default function Home10({ onePage = false, dark = false }) {
             <div className="col-sm-8 col-lg-6 col-xl-4 offset-xl-1 mt-n10">
               <div className="wow linesAnimIn" data-splitting="lines">
                 <p className="lead mt-0 mb-40">
-                  Resonance is a full-service creative studio creating beautiful
-                  digital experiences and products. We are a company
-                  specializing in design and engineering.
+                Our founder, Mr. Paranjyothi Jannu, has dedicated over 40 years to advancing education, equipping lakhs of students and educators with the skills, discipline, and confidence to succeed.
                 </p>
                 <p className="mb-40">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Vestibulum euismod augue ac faucibus aliquet. Fusce eu nibh
-                  enim. Etiam sit amet felis molestie tellus condimentum
-                  feugiat. Sed scelerisque dui id maximus imperdiet euismod
-                  ultrices placerat euismod ultrices placerat.
+                At ParanPara, we go beyond academics—fostering discipline, confidence, and career growth through advanced global learning techniques. We leverage AI-powered apps and platforms to equip schools, teachers, and parents with smarter tools to shape future-ready students.
                 </p>
               </div>
 
@@ -163,14 +157,12 @@ export default function Home10({ onePage = false, dark = false }) {
             */}
             <div className="col-xl-5 d-flex align-items-center team-1-column-sticky mb-lg-90 mb-sm-50">
               <div>
-                <h2 className="section-caption-border">Our Team</h2>  
+                <h2 className="section-caption-border">OUR SOLUTIONS</h2>  
                 <h3 className="section-title-strong mb-40">
-                  Meet the<span className="font-alt">team of</span> experts
-                </h3>
+                Smarter<span className="font-alt">Approach to</span> Education
+                </h3>  
                 <p className="mb-40">
-                  Aliquam erat volutpat. Proin luctus interdum orci, euismod
-                  ultrices placerat ultricies pretium sem euismod et. Nam
-                  consequat lectus nec nunc faucibus.
+                From school management to family enrichment, and from curriculum innovation to teacher training, ParanPara delivers transformative solutions.
                 </p>
                 <div className="local-scroll">
                   {onePage ? (

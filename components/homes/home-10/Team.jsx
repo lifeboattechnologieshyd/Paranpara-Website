@@ -40,14 +40,28 @@ export default function Team() {
           } `}
         >
           <div className="team-1-item round">
-            <h4 className="team-1-title">
+            {/* <h4 className="team-1-title">
               {member.name.split(" ").map((part, idx) => (
                 <React.Fragment key={idx}>
                   {part}
                   <br className="d-sm-none" />
                 </React.Fragment>
               ))}
-            </h4>
+            </h4> */}
+            <h4 className="team-1-title">
+  {(() => {
+    const nameParts = member.name.split(" ");
+    if (nameParts.length <= 1) return member.name;
+    return (
+      <>
+        {nameParts.slice(0, nameParts.length - 1).join(" ")}
+        <br />
+        {nameParts[nameParts.length - 1]}
+      </>
+    );
+  })()}
+</h4>
+
             <div className="team-1-image">
               <Image
                 width={288}

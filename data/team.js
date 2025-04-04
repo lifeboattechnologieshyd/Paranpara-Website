@@ -76,31 +76,31 @@ export const teamMembers2 = [
 
 export const teamMembers3 = [
   {
-    name: "Thomas Anderson",
-    role: "Creative director",
+    name: "School First",
+    role: "Empowering Schools",
     description:
-      "Sed eget ipsum vel urna viverra iaculis. Aenean ligula arcu, porta in scelerisque vehicula eget metus.",
+      "Streamline administration, support teachers, engage parents, and enhance student learning—all in one platform",
     imgSrc: "/assets/images/demo-strong/team/team-1.jpg",
   },
   {
-    name: "Lukas Goodman",
-    role: "Product designer",
+    name: "FamiliFirst",
+    role: "Empowering Families",
     description:
-      "Etiam nec purus lacus curabitur facilisis dolor odio, in cursus sem viverra nec maximus pretium.",
+      "Guidance, self-improvement, self-improvement, career growth & edutainment—for every member of the family,",
     imgSrc: "/assets/images/demo-strong/team/team-2.jpg",
   },
   {
-    name: "Kelsie Rogers",
-    role: "Web engineer",
+    name: "ParanPara Curriculam",
+    role: "Empowering Students",
     description:
-      "Etiam at orli at tellus iaculis bibendum quis id ante proin posuere eros, eget blandit vestibulum vel.",
+      "A carefully designed grade-wise curriculum that brings advanced global learning into everyday education.",
     imgSrc: "/assets/images/demo-strong/team/team-3.jpg",
   },
   {
-    name: "Marta Carlson",
-    role: "UI/UX designer",
+    name: "Paranpara Teacher Training",
+    role: "Empowering Teachers",
     description:
-      "Sed eget ipsum vel urna viverra iaculis. Aenean ligula arcu, porta in scelerisque vehicula eget metus.",
+      "Equipping teachers with advanced skills to create engaging, student-centered learning environments.",
     imgSrc: "/assets/images/demo-strong/team/team-4.jpg",
   },
 ];
