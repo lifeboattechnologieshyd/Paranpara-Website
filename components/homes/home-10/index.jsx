@@ -101,7 +101,7 @@ export default function Home10({ onePage = false, dark = false }) {
                 {onePage ? (
                   <>
                     <a
-                      href="#team"
+                      href=""
                       className="btn btn-mod btn-white btn-large btn-round btn-hover-anim"
                     >
                       <span>
@@ -113,7 +113,8 @@ export default function Home10({ onePage = false, dark = false }) {
                 ) : (
                   <>
                     <Link
-                        href={`/${dark ? "-dark" : ""}`}
+                        // href={`/${dark ? "-dark" : ""}`}
+                        href=""
                         className="btn btn-mod btn-white btn-large btn-round btn-hover-anim"
                       >
                         <span>Learn More</span>

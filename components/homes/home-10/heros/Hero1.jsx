@@ -47,7 +47,7 @@ export default function Hero1() {
         data-wow-offset={0}
       >
         <div className="full-wrapper text-end">
-          <a href="#about" className="scroll-down-4">
+          <a href="" className="scroll-down-4">
             <i className="icon-arrow-down" />
           </a>
         </div>
