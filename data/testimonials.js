@@ -57,19 +57,19 @@ export const testimonials3 = [
     text: "The Family First app turned screen time into learning time. My son enjoys it, and I feel good knowing he’s using his phone productively.",
     author: "Mr. Rajeev Sharma",
     role: "Parent",
-    imgSrc: "/assets/images/demo-gradient/user-1.jpg",
+    imgSrc: "/assets/images/R-1.png",
   },
   {
     text: "ParanPara’s methods made my classes more engaging. The focus on actual learning, not just syllabus, changed how my students respond.",
     author: "Ms. Revathi P",
     role: "Teacher",
-    imgSrc: "/assets/images/demo-gradient/user-2.jpg",
+    imgSrc: "/assets/images/R.png",
   },
   {
     text: "ParanPara’s curriculum is thoughtful and balanced. It’s easy for our teachers to implement and helps students grow academically and personally.",
     author: "Ms. Aruna Reddy",
     role: "School Principal",
-    imgSrc: "/assets/images/demo-gradient/user-3.jpg",
+    imgSrc: "/assets/images/A.png",
   },
   // {
   //   text: "Beautiful template, nice code and easy to customize. Optimization, structure and pages are very good for SEO basics.",
