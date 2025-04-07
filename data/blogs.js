@@ -206,7 +206,7 @@ export const blogs7 = [
 export const blogs8 = [
   {
     id: 20,
-    imageSrc: "/assets/images/demo-modern/blog/1.jpg",
+    imageSrc: "/assets/images/ai.jpg",
     title: "The Future of Education: AI-Powered and Personalised",
     date: "December 3, 2023",
     rellaxY: "",
@@ -215,7 +215,7 @@ export const blogs8 = [
   },
   {
     id: 21,
-    imageSrc: "/assets/images/demo-modern/blog/2.jpg",
+    imageSrc: "/assets/images/rename.jpg",
     title: "Creating a Future-Proof Learning Ecosystem:",
     date: "December 2, 2023",
     rellaxY: "",
@@ -224,7 +224,7 @@ export const blogs8 = [
   },
   {
     id: 22,
-    imageSrc: "/assets/images/demo-modern/blog/3.jpg",
+    imageSrc: "/assets/images/future.jpg",
     title: "Bridging the Gap Between Traditional and Future-Ready Curriculum",
     date: "November 29, 2023",
     rellaxY: "",

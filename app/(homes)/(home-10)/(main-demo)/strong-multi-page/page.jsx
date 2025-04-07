@@ -24,7 +24,7 @@ export default function Home10MainDemoMultiPage() {
               className="home-section bg-dark-alpha-30 light-content parallax-5 scrollSpysection"
               style={{
                 backgroundImage:
-                  "url(/assets/images/demo-strong/section-bg-1.jpg)",
+                  "url(/assets/images/hero-1.jpg)",
               }}
               id="home"
             >

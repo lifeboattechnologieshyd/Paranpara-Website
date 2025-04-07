@@ -21,7 +21,7 @@ export default function Contact() {
             <Image
               width={1080}
               height={516}
-              src="/assets/images/demo-strong/section-image-5.jpg" // side image of - LETS WORK TOGETHER - CONTENT
+              src="/assets/images/exiting.jpg" // side image of - LETS WORK TOGETHER - CONTENT
               alt="Image Description"
               className="wow scaleOutIn"
               data-wow-offset={110}

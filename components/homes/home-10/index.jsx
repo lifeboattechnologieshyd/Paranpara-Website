@@ -382,7 +382,7 @@ export default function Home10({ onePage = false, dark = false }) {
               <Image
                 width={1100}
                 height={930}
-                src="/assets/images/demo-strong/split-image-2.jpg" // right side image of - FLEXIBLE RESPONSIVE  - CONTENT
+                src="/assets/images/why.jpg" // right side image of - FLEXIBLE RESPONSIVE  - CONTENT
                 alt="Image Description"
               />
               {/* Circle Text */}
@@ -441,7 +441,7 @@ export default function Home10({ onePage = false, dark = false }) {
         className="page-section bg-dark-1 light-content"
         style={{
           backgroundImage:
-            "url(/assets/images/full-width-images/section-bg-2.jpg)", // background image between LATEST NEWS and LETS WORK TOGETHER
+            "url(/assets/images/bg.jpg)", // background image between LATEST NEWS and LETS WORK TOGETHER
         }}
       >
         <Newsletter />
