@@ -69,6 +69,7 @@ export default function Blog() {
                   {post.title}
                 </Link>
               </h3>
+              
               <div className="post-prev-2-info">{post.date}</div>
             </div>
           </div>

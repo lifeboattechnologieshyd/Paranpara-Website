@@ -204,33 +204,148 @@ export const blogs7 = [
 ];
 
 export const blogs8 = [
-  {
-    id: 20,
-    imageSrc: "/assets/images/ai.jpg",
-    title: "The Future of Education: AI-Powered and Personalised",
-    date: "December 3, 2023",
-    rellaxY: "",
-    rellaxSpeed: -1,
-    rellaxPercentage: "0.37",
-  },
-  {
-    id: 21,
-    imageSrc: "/assets/images/rename.jpg",
-    title: "Creating a Future-Proof Learning Ecosystem:",
-    date: "December 2, 2023",
-    rellaxY: "",
-    rellaxSpeed: 0,
-    rellaxPercentage: "",
-  },
-  {
-    id: 22,
-    imageSrc: "/assets/images/future.jpg",
-    title: "Bridging the Gap Between Traditional and Future-Ready Curriculum",
-    date: "November 29, 2023",
-    rellaxY: "",
-    rellaxSpeed: 1,
-    rellaxPercentage: "0.37",
-  },
+  // {
+  //   id: 20,
+  //   imageSrc: "/assets/images/ai.jpg",
+  //   title: "The Future of Education: AI-Powered and Personalised",
+  //   date: "December 3, 2023",
+  //   rellaxY: "",
+  //   rellaxSpeed: -1,
+  //   rellaxPercentage: "0.37",
+  // },
+  // {
+  //   id: 21,
+  //   imageSrc: "/assets/images/rename.jpg",
+  //   title: "Creating a Future-Proof Learning Ecosystem:",
+  //   date: "December 2, 2023",
+  //   rellaxY: "",
+  //   rellaxSpeed: 0,
+  //   rellaxPercentage: "",
+  // },
+  // {
+  //   id: 22,
+  //   imageSrc: "/assets/images/future.jpg",
+  //   title: "Bridging the Gap Between Traditional and Future-Ready Curriculum",
+  //   date: "November 29, 2023",
+  //   rellaxY: "",
+  //   rellaxSpeed: 1,
+  //   rellaxPercentage: "0.37",
+  // },
+
+  
+    {
+      id: 20,
+      title: "The Future of Education: AI-Powered and Personalised",
+      imageSrc: "/assets/images/ai.jpg",
+      date: "December 3, 2023",
+      content: `
+        <h4>Welcome to the Future of Learning</h4>
+        <p>Imagine a world where every learner—regardless of age, background, or pace—receives the exact education they need, when they need it. At ParanPara Pvt. Ltd., this isn’t just imagination. It’s happening.</p>
+  
+        <h4>Why Traditional Learning No Longer Works for All</h4>
+        <p>The one-size-fits-all approach to education is showing its age. Students today need more than textbooks and chalkboards—they need engagement, personalization, and real-time growth tracking. And that’s where ParanPara steps in.</p>
+  
+        <h4>Enter the AI-Powered Classroom</h4>
+        <p>With our ParanPara Education Guarantee Initiative, we’ve built an AI-powered daily learning system that evolves with each learner. From curated lessons to interactive challenges and real-time feedback, our tech creates a personalized journey that empowers every child.</p>
+        <p>Whether it’s Critical Thinking, Financial Literacy, or Public Speaking, our AI understands a child's learning needs and adjusts accordingly—ensuring consistent academic progress and real-world skill development.</p>
+  
+        <h4>Beyond Just Learning—We Create Ecosystems</h4>
+        <p>Education isn’t a solo act. At ParanPara, we believe in collaboration—between students, educators, and parents. Our AI tools don’t just track performance; they build bridges between home and school, making learning transparent, collaborative, and measurable.</p>
+  
+        <h4>Future-Proofing Young Minds</h4>
+        <p>Aligned with our vision of a future-proof learning ecosystem, our mission is to provide guaranteed, structured, and joyful learning to every child. The future demands adaptability, creativity, empathy, and tech fluency—and we are preparing children for it right from kindergarten.</p>
+  
+        <h4>Education. Redesigned.</h4>
+        <p>We’re not just teaching. We’re engineering a revolution—where every child is equipped, every teacher is empowered, and every school is a center of excellence.</p>
+        <p>At ParanPara, the future of education is now—AI-powered, personalized, and purpose-driven.</p>
+  
+        <p><strong>Ready to explore the future of learning with ParanPara?</strong><br>Let’s connect, collaborate, educate, and support—together.</p>
+      `,
+    },
+    {
+      id: 21,
+      title: "Creating a Future-Proof Learning Ecosystem",
+      imageSrc: "/assets/images/rename.jpg",
+      date: "December 2, 2023",
+      content: `
+        <h4>What does it mean to be future-proof in education?</h4>
+        <p>At ParanPara Pvt. Ltd., it means creating a dynamic learning ecosystem where every child—regardless of their starting point—has access to personalized, tech-driven, and structured education that grows with them.</p>
+  
+        <h4>The Why Behind ParanPara</h4>
+        <p>In today’s fast-evolving world, traditional learning systems fall short of preparing students for the challenges of tomorrow. They often prioritize memorization over mastery, uniformity over individuality.</p>
+        <p>That’s where ParanPara steps in. Our mission is simple but powerful:</p>
+        <ul>
+          <li>🔹 Connect students to knowledge.</li>
+          <li>🔹 Collaborate with educators and parents.</li>
+          <li>🔹 Educate through innovation and structure.</li>
+          <li>🔹 Support every learner’s journey.</li>
+        </ul>
+  
+        <h4>Building a Future-Proof Ecosystem</h4>
+        <p>A future-proof learning ecosystem isn’t just about digital tools. It’s about:</p>
+        <ul>
+          <li>✅ AI-powered learning paths that adjust to each child’s pace and interests</li>
+          <li>✅ Structured curricula that blend core subjects with evolving life skills</li>
+          <li>✅ Consistent feedback loops that engage learners, teachers, and families</li>
+          <li>✅ Real-world readiness—from emotional intelligence to financial literacy</li>
+        </ul>
+  
+        <h4>Bridging the Gap Between Old and New</h4>
+        <p>Our ParanPara Education Guarantee Initiative isn’t just a product. It’s a promise. We’re actively bridging the gap between traditional systems and modern needs by blending conventional teaching with smart, measurable technology.</p>
+  
+        <p>Parents are no longer left wondering how their child is doing—they’re part of the journey. Teachers are no longer confined to fixed methods—they’re supported with innovative tools. And students? They thrive.</p>
+  
+        <h4>The Bigger Picture</h4>
+        <p>Our vision is clear: to set the global benchmark for AI-powered learning models that are scalable, equitable, and adaptable.</p>
+        <p>We're not just preparing students to score well. We’re preparing them to think, lead, adapt, and thrive—in school, in life, and in the future workplace.</p>
+  
+        <p><strong>🌟 ParanPara isn't just imagining the future of learning. We're building it.</strong></p>
+        <p>With structure, soul, and smart technology—one child, one class, one school at a time.</p>
+      `,
+    },
+    {
+      id: 22,
+      title: "Bridging Traditional and Future-Ready Curriculum",
+      imageSrc: "/assets/images/future.jpg",
+      date: "November 29, 2023",
+      content: `
+        <h4>Why does the curriculum of today feel outdated in the world of tomorrow?</h4>
+        <p>It’s a question many educators and parents are asking. At ParanPara, we believe the answer lies in reimagining education—not by discarding the past, but by innovatively building on it.</p>
+  
+        <h4>The Curriculum Conundrum</h4>
+        <p>Traditional curricula often focus heavily on core subjects—literacy, numeracy, EVS. These are essential, yes. But they alone can’t prepare students for a world driven by technology, critical thinking, emotional intelligence, and digital fluency.</p>
+  
+        <h4>What Makes ParanPara Different?</h4>
+        <p>At ParanPara, our curriculum isn’t an either/or—it’s a thoughtfully designed fusion of the tried-and-tested and the next-generation.</p>
+        <ul>
+          <li>🔹 Conventional subjects like English, Numeracy, and Science</li>
+          <li>🔹 Evolving subjects like Critical Thinking, Financial Literacy, Public Speaking, Career Awareness, and Ethical Character</li>
+        </ul>
+        <p>All delivered through AI-powered daily learning, interactive content, and structured feedback systems for real-time growth.</p>
+  
+        <h4>Our Mission in Action</h4>
+        <p>By connecting learners with structured content, collaborating with parents and educators, and using AI for personalized learning, ParanPara makes education:</p>
+        <ul>
+          <li>✅ More measurable</li>
+          <li>✅ More engaging</li>
+          <li>✅ More aligned with real-world success</li>
+        </ul>
+  
+        <h4>Building the Bridge</h4>
+        <p>Our future-ready curriculum is not about replacing tradition—it’s about upgrading it. We bridge the gap through:</p>
+        <ul>
+          <li>✔️ Smart integration of tech tools with teacher-led instruction</li>
+          <li>✔️ Emphasis on life skills alongside academics</li>
+          <li>✔️ Daily engagement strategies that spark curiosity and consistency</li>
+        </ul>
+  
+        <h4>The Future Is Now</h4>
+        <p>As we move toward an uncertain but exciting future, the need for future-proof education becomes urgent. At ParanPara, we’re leading this movement—with a heart for tradition and a vision for tomorrow.</p>
+        <p><em>“The bridge to the future isn’t built in a day. But at ParanPara, we build it every day—with every lesson, every child, every school.”</em></p>
+      `,
+    },
+  
+  
 ];
 
 export const blogs9 = [
