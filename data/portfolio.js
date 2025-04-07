@@ -2,7 +2,7 @@ export const portfolioItems = [
   {
     id: 1,
     href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/demo-strong/portfolio/1.jpg",  // portfolio images
+    imgSrc: "/assets/images/lets.jpg",  // portfolio images
     imgAlt: "Image Description",
     title: "OASIS PUBLIC SCHOOL",
     descr: "Warangal, Telangana",
@@ -10,7 +10,7 @@ export const portfolioItems = [
   {
     id: 2,
     href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/demo-strong/portfolio/2.jpg",
+    imgSrc: "/assets/images/lets-2.jpg",
     imgAlt: "Image Description",
     title: "Lifeboat Institute of Technology",
     descr: "Warangal, Telangana",
@@ -18,35 +18,35 @@ export const portfolioItems = [
   {
     id: 3,
     href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/demo-strong/portfolio/3.jpg",
+    imgSrc: "/assets/images/School-Pic-1.jpg",
     imgAlt: "Image Description",
     title: "ParanPara Education",
     descr: "Hyderabad, India",
   },
-  {
-    id: 4,
-    href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/demo-strong/portfolio/4.jpg",
-    imgAlt: "Image Description",
-    title: "Rise of Design",
-    descr: "Branding, UI/UX Design",
-  },
-  {
-    id: 5,
-    href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/demo-strong/portfolio/5.jpg",
-    imgAlt: "Image Description",
-    title: "Amplitude",
-    descr: "UI/UX Design, Development",
-  },
-  {
-    id: 6,
-    href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/demo-strong/portfolio/6.jpg",
-    imgAlt: "Image Description",
-    title: "Medium Scene",
-    descr: "Branding, Design",
-  },
+  // {
+  //   id: 4,
+  //   href: "strong-portfolio-single.html",
+  //   imgSrc: "/assets/images/demo-strong/portfolio/4.jpg",
+  //   imgAlt: "Image Description",
+  //   title: "Rise of Design",
+  //   descr: "Branding, UI/UX Design",
+  // },
+  // {
+  //   id: 5,
+  //   href: "strong-portfolio-single.html",
+  //   imgSrc: "/assets/images/demo-strong/portfolio/5.jpg",
+  //   imgAlt: "Image Description",
+  //   title: "Amplitude",
+  //   descr: "UI/UX Design, Development",
+  // },
+  // {
+  //   id: 6,
+  //   href: "strong-portfolio-single.html",
+  //   imgSrc: "/assets/images/demo-strong/portfolio/6.jpg",
+  //   imgAlt: "Image Description",
+  //   title: "Medium Scene",
+  //   descr: "Branding, Design",
+  // },
 ];
 
 export const portfolios1 = [

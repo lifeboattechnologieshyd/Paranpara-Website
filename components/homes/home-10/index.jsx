@@ -67,7 +67,7 @@ export default function Home10({ onePage = false, dark = false }) {
                   <Image
                     width={500}
                     height={692}
-                    src="/assets/images/demo-strong/section-image-1.jpg" // group of creaters left - back
+                    src="/assets/images/school-pic.jpg" // group of creaters left - back
                     alt="Image description"
                     className="wow scaleOutIn"
                     data-wow-duration="1.2s"
@@ -77,7 +77,7 @@ export default function Home10({ onePage = false, dark = false }) {
                   <Image
                     width={500}
                     height={692}
-                    src="/assets/images/demo-strong/section-image-2.jpg"   // group of creaters left - front
+                    src="/assets/images/founder.jpg"   // group of creaters left - front
                     alt="Image description"
                     className="wow scaleOutIn"
                     data-wow-duration="1.2s"
@@ -131,7 +131,7 @@ export default function Home10({ onePage = false, dark = false }) {
                 <Image
                   width={330}
                   height={894}
-                  src="/assets/images/demo-strong/section-image-3.jpg" // group of creaters right - front
+                  src="/assets/images/speech.jpg" // group of creaters right - front
                   alt="Image description"
                   className="wow scaleOutIn"
                   data-wow-duration="1.2s"
@@ -295,7 +295,7 @@ export default function Home10({ onePage = false, dark = false }) {
               <Image
                 width={1100}
                 height={930}
-                src="/assets/images/demo-strong/split-image-1.jpg" // beside image of - LOOKING FOR EXCLISIVE - content
+                src="/assets/images/next.jpg" // beside image of - LOOKING FOR EXCLISIVE - content
                 alt="Image Description"
               />
             </div>

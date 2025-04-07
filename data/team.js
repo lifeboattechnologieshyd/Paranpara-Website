@@ -80,27 +80,27 @@ export const teamMembers3 = [
     role: "Empowering Schools",
     description:
       "Streamline administration, support teachers, engage parents, and enhance student learning—all in one platform",
-    imgSrc: "/assets/images/demo-strong/team/team-1.jpg",
+    imgSrc: "/assets/images/school-first.jpg",
   },
   {
     name: "FamiliFirst",
     role: "Empowering Families",
     description:
       "Guidance, self-improvement, self-improvement, career growth & edutainment—for every member of the family,",
-    imgSrc: "/assets/images/demo-strong/team/team-2.jpg",
+    imgSrc: "/assets/images/family-first.jpg",
   },
   {
     name: "ParanPara Curriculam",
     role: "Empowering Students",
     description:
       "A carefully designed grade-wise curriculum that brings advanced global learning into everyday education.",
-    imgSrc: "/assets/images/demo-strong/team/team-3.jpg",
+    imgSrc: "/assets/images/third.jpg",
   },
   {
     name: "Paranpara Teacher Training",
     role: "Empowering Teachers",
     description:
       "Equipping teachers with advanced skills to create engaging, student-centered learning environments.",
-    imgSrc: "/assets/images/demo-strong/team/team-4.jpg",
+    imgSrc: "/assets/images/teaching.jpg",
   },
 ];

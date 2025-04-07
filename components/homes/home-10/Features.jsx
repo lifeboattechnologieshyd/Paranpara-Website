@@ -23,7 +23,7 @@ export default function Features() {
               <Image
                 width={788}
                 height={280}
-                src="/assets/images/demo-strong/section-image-4.jpg"
+                src="/assets/images/offers.jpg"
                 alt="Image Description"
               />
             </div>
