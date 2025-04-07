@@ -117,7 +117,7 @@ export default function Home10ImageParallaxMultiPage() {
               className="home-section bg-dark-alpha-30 light-content parallax-5 scrollSpysection"
               style={{
                 backgroundImage:
-                  "url(/assets/images/demo-strong/section-bg-3.jpg)",
+                  "url(/assets/images/hero-1.jpg)",
               }}
               id="home"
             >
