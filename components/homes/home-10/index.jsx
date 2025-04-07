@@ -77,7 +77,7 @@ export default function Home10({ onePage = false, dark = false }) {
                   <Image
                     width={500}
                     height={692}
-                    src="/assets/images/founder.jpg"   // group of creaters left - front
+                    src="/assets/images/BIGMASTER.jpg"   // group of creaters left - front
                     alt="Image description"
                     className="wow scaleOutIn"
                     data-wow-duration="1.2s"
@@ -90,7 +90,7 @@ export default function Home10({ onePage = false, dark = false }) {
             <div className="col-sm-8 col-lg-6 col-xl-4 offset-xl-1 mt-n10">
               <div className="wow linesAnimIn" data-splitting="lines">
                 <p className="lead mt-0 mb-40">
-                Our founder, Mr. Paranjyothi Jannu, has dedicated over 40 years to advancing education, equipping lakhs of students and educators with the skills, discipline, and confidence to succeed.
+                Our founder,Dr.J.S.Paranjyothi, has dedicated over 40 years to advancing education, equipping lakhs of students and educators with the skills, discipline, and confidence to succeed.
                 </p>
                 <p className="mb-40">
                 At ParanPara, we go beyond academics—fostering discipline, confidence, and career growth through advanced global learning techniques. We leverage AI-powered apps and platforms to equip schools, teachers, and parents with smarter tools to shape future-ready students.

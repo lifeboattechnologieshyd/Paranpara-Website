@@ -20,8 +20,8 @@ export const metadata = {
 };
 export default async function ModernBlogSinglePage(props) {
   const params = await props.params;
-  const blog = allBlogs.filter((elm) => elm.id == params.id)[0] || allBlogs[0];
- 
+//   const blog = allBlogs.filter((elm) => elm.id == params.id)[0] || allBlogs[0];
+const blog = allBlogs.find((elm) => elm.id == 21) || allBlogs[0];
  
 
   return (
