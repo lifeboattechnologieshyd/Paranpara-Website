@@ -21,6 +21,7 @@ export default function Service() {
                 alt="Icon"
                 width={48}
                 height={64}
+                
               />
             </div>
             Logical Path
@@ -83,7 +84,7 @@ export default function Service() {
             Community
           </a>
         </li>
-        <li className="nav-item" role="presentation">
+        {/* <li className="nav-item" role="presentation">
           <a
             href="#service-photography"
             className="nav-link"
@@ -91,13 +92,32 @@ export default function Service() {
             role="tab"
             aria-selected="false"
           >
-            <div className="alt-tabs-icon mb-2">
+            <div className="alt-tabs-icon">
               <img
                 src="/assets/images/services-5.jpg"
                 alt="Icon"
                 width={48}
                 height={64}
                 
+              />
+            </div>
+            Outcomes
+          </a>
+        </li> */}
+            <li className="nav-item" role="presentation">
+          <a
+            href="#service-photography"
+            className="nav-link"
+            data-bs-toggle="tab"
+            role="tab"
+            aria-selected="false"
+          >
+            <div className="alt-tabs-icon">
+            <img
+                src="/assets/images/services-5.jpg"
+                alt="Icon"
+                width={48}
+                height={64}
               />
             </div>
             Outcomes
