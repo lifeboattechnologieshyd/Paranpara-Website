@@ -17,7 +17,7 @@ export default function Footer9() {
         <div className="row">
           {/* Copyright */}
           <div className="col-lg-3 text-center text-lg-start mb-md-50">
-            © IB-Themes {new Date().getFullYear()}.
+            © Paranpara Education Policy Pvt Ltd {new Date().getFullYear()}.
           </div>
           {/* End Copyright */}
           {/* Social Links 

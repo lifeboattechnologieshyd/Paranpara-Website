@@ -55,7 +55,7 @@ export default function Hero1() {
       {/* End Scroll Down */}
       {/* Status */}
       <div className="hs-status uppercase wow fadeInUp" data-wow-offset={0}>
-        Based in Kyiv, Ukraine
+      
       </div>
       {/* End Status */}
     </div>
