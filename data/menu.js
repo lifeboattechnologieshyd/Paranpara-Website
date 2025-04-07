@@ -1,5 +1,5 @@
 export const strongMultiPages = [
-  { href: "/strong-multi-page", text: "Home", className: "active"},
+  { href: "/", text: "Home", className: "active"},
   { href: "", text: "About",  },
   { href: "", text: "Services" },
   { href: "", text: "Portfolio" },
