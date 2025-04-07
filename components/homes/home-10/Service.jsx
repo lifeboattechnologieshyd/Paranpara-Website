@@ -21,6 +21,7 @@ export default function Service() {
                 alt="Icon"
                 width={48}
                 height={64}
+                style={{ marginBottom: '10rem' }} 
                 
               />
             </div>
@@ -41,6 +42,7 @@ export default function Service() {
                 alt="Icon"
                 width={48}
                 height={64}
+                style={{ marginBottom: '10rem' }} 
               />
             </div>
             Technology
@@ -60,6 +62,7 @@ export default function Service() {
                 alt="Icon"
                 width={48}
                 height={64}
+                style={{ marginBottom: '10rem' }} 
               />
             </div>
             Skills
@@ -79,6 +82,7 @@ export default function Service() {
                 alt="Icon"
                 width={48}
                 height={64}
+                style={{ marginBottom: '10rem' }} 
               />
             </div>
             Community
@@ -101,6 +105,7 @@ export default function Service() {
                 width={48}
                 height={64}
                 padding={30}
+                style={{ marginBottom: '10rem' }} 
               />
             </div>
             Outcomes
