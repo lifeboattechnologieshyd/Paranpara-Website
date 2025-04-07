@@ -212,11 +212,11 @@ export default function Home10({ onePage = false, dark = false }) {
         <div className="container">
           <div className="row">
             <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
-              <h2 className="section-caption-border">Our Services</h2>
+              <h2 className="section-caption-border">The ParanPara Way</h2>
               <h3 className="section-title-strong mb-90 mb-sm-50">
-                We provide the
-                <span className="font-alt">full stack of</span> creative
-                services
+              Not Just 
+                <span className="font-alt"> Education</span> Total Transformation
+                
               </h3>
             </div>
           </div>
