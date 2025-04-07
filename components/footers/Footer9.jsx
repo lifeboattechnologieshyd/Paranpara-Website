@@ -29,7 +29,7 @@ export default function Footer9() {
             {socialMediaLinks.map((elm, i) => (
               <a
                 key={i}
-                href={elm.href}
+                // href={elm.href}
                 title="Facebook"
                 rel="noopener nofollow"
                 target="_blank"
