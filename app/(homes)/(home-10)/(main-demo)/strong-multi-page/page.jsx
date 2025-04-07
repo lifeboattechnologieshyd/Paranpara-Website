@@ -17,7 +17,9 @@ export default function Home10MainDemoMultiPage() {
       <div className="theme-strong">
         <div className="page" id="top">
           <nav className="main-nav dark transparent stick-fixed wow-menubar wch-unset">
-            <Header10 links={strongMultiPages} />
+            <Header10 
+             links={strongMultiPages}
+             />
           </nav>
           <main id="main">
             <ParallaxContainer
