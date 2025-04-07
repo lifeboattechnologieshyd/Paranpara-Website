@@ -2,7 +2,7 @@ export const portfolioItems = [
   {
     id: 1,
     href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/lets.jpg",  // portfolio images
+    imgSrc: "/assets/images/School-Pic-1.jpg",  // portfolio images
     imgAlt: "Image Description",
     title: "OASIS PUBLIC SCHOOL",
     descr: "Warangal, Telangana",
@@ -18,7 +18,7 @@ export const portfolioItems = [
   {
     id: 3,
     href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/School-Pic-1.jpg",
+    imgSrc: "/assets/images/lets.jpg",
     imgAlt: "Image Description",
     title: "ParanPara Education",
     descr: "Hyderabad, India",
