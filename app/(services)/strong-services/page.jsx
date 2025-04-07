@@ -13,9 +13,9 @@ const dark = false;
 const onePage = false;
 export const metadata = {
   title:
-    "Strong Services || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Paranpara Education Policy Pvt Ltd",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "ParanPara Education - Smarter Solutions for Smarter Education & Strong Futures",
 };
 export default function StrongServicesPage() {
   return (

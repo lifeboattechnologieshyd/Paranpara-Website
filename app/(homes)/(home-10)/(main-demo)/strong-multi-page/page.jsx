@@ -9,7 +9,7 @@ export const metadata = {
   title:
     "Paranpara Education Policy Pvt Ltd",
   description:
-    "",
+    "ParanPara Education - Smarter Solutions for Smarter Education & Strong Futures",
 };
 export default function Home10MainDemoMultiPage() {
   return (
