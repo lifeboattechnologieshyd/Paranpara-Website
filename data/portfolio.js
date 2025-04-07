@@ -10,7 +10,7 @@ export const portfolioItems = [
   {
     id: 2,
     href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/lets-2.jpg",
+    imgSrc: "/assets/images/lets.jpg",
     imgAlt: "Image Description",
     title: "Lifeboat Institute of Technology",
     descr: "Warangal, Telangana",
@@ -18,7 +18,7 @@ export const portfolioItems = [
   {
     id: 3,
     href: "strong-portfolio-single.html",
-    imgSrc: "/assets/images/lets.jpg",
+    imgSrc: "/assets/images/lets-2.jpg",
     imgAlt: "Image Description",
     title: "ParanPara Education",
     descr: "Hyderabad, India",
