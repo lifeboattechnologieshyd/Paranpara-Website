@@ -7,12 +7,12 @@ export default function Features() {
     <>
       <div className="marquee marquee-style-5 mt-n40 mt-sm-n20 mt-xs-0 mb-80 mb-sm-60">
         <div className="marquee-track marquee-animation-3">
-          <h2 className="visually-hidden">Why choose us?</h2>
-          <div aria-hidden="true">Why choose us?</div>
-          <div aria-hidden="true">Why choose us?</div>
-          <div aria-hidden="true">Why choose us?</div>
-          <div aria-hidden="true">Why choose us?</div>
-          <div aria-hidden="true">Why choose us?</div>
+          <h2 className="visually-hidden">Our Offerings!</h2>
+          <div aria-hidden="true">Our Offerings!</div>
+          <div aria-hidden="true">Our Offerings!</div>
+          <div aria-hidden="true">Our Offerings!</div>
+          <div aria-hidden="true">Our Offerings!</div>
+          <div aria-hidden="true">Our Offerings!</div>
         </div>
       </div>
       {/* End Marquee Text Line */}

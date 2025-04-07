@@ -6,8 +6,8 @@ export default function Newsletter() {
       <div className="row">
         <div className="col-md-8 offset-md-2 col-lg-6 offset-lg-3 wow fadeInUp">
           <h2 className="section-title text-center mb-40">
-            Looking for
-            <span className="font-alt">exclusive creative</span> content?
+          Never miss  
+            <span className="font-alt"> any updates</span> from ParanPara
           </h2>
           <form
             onSubmit={(e) => e.preventDefault()}
@@ -37,8 +37,8 @@ export default function Newsletter() {
               </button>
             </div>
             <div className="form-tip">
-              <i className="icon-info size-16" /> By sending the form you agree
-              to the <a href="#">Terms &amp; Conditions</a> and{" "}
+              <i className="icon-info size-16" />By subscribing, you consent to receive emails from ParanPara 
+               <a href="#">Terms &amp; Conditions</a> and{" "}
               <a href="#">Privacy Policy</a>.
             </div>
             <div

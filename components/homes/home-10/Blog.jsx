@@ -10,12 +10,10 @@ export default function Blog() {
         <div className="col-lg-5 mb-md-90 mb-sm-50">
           <h2 className="section-caption-border">Our Blog</h2>
           <h3 className="section-title-strong mb-40">
-            Latest <span className="font-alt">News</span>
+          Smart  <span className="font-alt">Reads</span>
           </h3>
           <p className="mb-40">
-            Etiam metus felis, dapibus sit amet consequat a, convallis mollis
-            odio. Quisque scelerisque dui id fermentum venenatis. Aliquam
-            lobortis ligula id efficitur iaculis.
+          Stay updated with fresh insights on parenting, teaching, and the future of learning. From everyday tips to deep dives into education trends, our blogs keep you informed, inspired, and connected.
           </p>
           <div className="local-scroll">
             <Link

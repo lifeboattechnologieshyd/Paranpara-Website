@@ -255,13 +255,11 @@ export default function Home10({ onePage = false, dark = false }) {
               {/* End Decorative Dots */}
               <div>
                 <h2 className="section-title mb-30">
-                  Looking for
-                  <span className="font-alt">exclusive creative</span> services?
+                Let’s Build the 
+                  <span className="font-alt"> Future</span>  of Learning.?
                 </h2>
                 <p className="mb-50">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Aliquam id tellus rutrum, consectetur tellus et, posuere
-                  mauris. Sed sit amet lacinia nunc vestibulum non varius nunc.
+                Join us in creating smart, engaging, and impactful education for every student. Get on our tech platforms and give us a chance to demonstrate how we can transform learning and lives.
                 </p>
                 <div className="local-scroll">
                   {onePage ? (
@@ -354,14 +352,10 @@ export default function Home10({ onePage = false, dark = false }) {
               {/* End Decorative Dots */}
               <div>
                 <h2 className="section-title mb-30">
-                  Responsive, <span className="font-alt">flexible</span> and
-                  customizable.
+                Why ParanPara Is   <span className="font-alt">the Right Partner</span> for You!,
                 </h2>
                 <p className="mb-50">
-                  Phasellus nisl lectus, tincidunt eget fermentum quis, accumsan
-                  a sem efficitur augue ac ex maximus, eget viverra sem aliquam.
-                  Donec blandit ante nunc, nec pellentesque arcu egestas a
-                  lorem.
+                Whether you’re a school looking to upgrade, a teacher aiming to make a deeper impact, or a parent wanting the best for your child. We are here to support you with our powerful tech & proven experience,
                 </p>
                 {/* Features List */}
                 <div className="row mt-n20">
@@ -414,14 +408,10 @@ export default function Home10({ onePage = false, dark = false }) {
           <div className="row mb-90 mb-sm-50">
             <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
               <h2 className="section-title-strong mb-40">
-                Clients <span className="font-alt">Stories</span>
+              Impact  <span className="font-alt">in Action</span>
               </h2>
               <p className="mb-0">
-                Etiam et arcu nec quam laoreet hendrerit eget sed velit. Fusce
-                convallis elit at ex sodales, quis maximus augue hendrerit.
-                Phasellus eget turpis vel nibh convallis vulputate. Pellentesque
-                efficitur augue ac ex maximus, eget viverra sem aliquam. Mauris
-                egestas, lectus sed accumsan varius.
+              We’re building more than just learning systems—we’re building trust, impact, and futures together. These stories come from the people who matter most: parents, teachers, and school leaders. Each one is a reflection of how ParanPara is helping children grow with confidence, clarity, and purpose—at home, in class, and beyond.
               </p>
             </div>
           </div>

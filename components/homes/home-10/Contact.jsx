@@ -9,12 +9,11 @@ export default function Contact() {
       <div className="row mb-90 mb-sm-50">
         <div className="col-lg-5 col-xl-4 mb-md-90 mb-sm-50 wow fadeInUp">
           <h2 className="section-title-strong mb-40">
-            Let’s work <span className="font-alt">together</span>
+          Exciting Things
+         <span className="font-alt"> are coming!</span>
           </h2>
           <p className="mb-0">
-            Integer non efficitur ex lorem ipsum. Praesent mauris, dignissim
-            ultricies sapien non, pulvinar volutpat elit donec lorem impsum
-            blandit mollis ipsum, eu fringilla.
+          Stay tuned! ParanPara’s AI solutions will transform how students engage with learning and how parents and teachers support every step of that journey.
           </p>
         </div>
         <div className="col-lg-7 offset-xl-1">
@@ -122,8 +121,8 @@ export default function Contact() {
                 {/* Inform Tip */}
                 <div className="form-tip pt-20 pt-sm-0">
                   <i className="icon-info size-16" />
-                  All the fields are required. By sending the form you agree to
-                  the <a href="#">Terms &amp; Conditions</a> and{" "}
+                  By submitting this form, you consent to ParanPara contacting you using the information provided.
+                   <a href="#">Terms &amp; Conditions</a> and{" "}
                   <a href="#">Privacy Policy</a>.
                 </div>
               </div>

@@ -207,7 +207,7 @@ export const blogs8 = [
   {
     id: 20,
     imageSrc: "/assets/images/demo-modern/blog/1.jpg",
-    title: "Natura Insects Series: Crafting Insects Made by Flowers",
+    title: "The Future of Education: AI-Powered and Personalised",
     date: "December 3, 2023",
     rellaxY: "",
     rellaxSpeed: -1,
@@ -216,7 +216,7 @@ export const blogs8 = [
   {
     id: 21,
     imageSrc: "/assets/images/demo-modern/blog/2.jpg",
-    title: "Minimalistic Design Concept for Balmain Online Store",
+    title: "Creating a Future-Proof Learning Ecosystem:",
     date: "December 2, 2023",
     rellaxY: "",
     rellaxSpeed: 0,
@@ -225,7 +225,7 @@ export const blogs8 = [
   {
     id: 22,
     imageSrc: "/assets/images/demo-modern/blog/3.jpg",
-    title: "Stylish Newspaper Cover Illustration",
+    title: "Bridging the Gap Between Traditional and Future-Ready Curriculum",
     date: "November 29, 2023",
     rellaxY: "",
     rellaxSpeed: 1,

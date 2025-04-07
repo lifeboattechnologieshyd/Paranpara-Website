@@ -8,15 +8,12 @@ export default function Portfolio() {
     <div className="container">
       <div className="row mb-90 mb-sm-50">
         <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
-          <h2 className="section-caption-border">Our Portfolio</h2>
+          <h2 className="section-caption-border">Our Partner Schools</h2>
           <h3 className="section-title-strong mb-40">
-            Creativity meets <span className="font-alt">technology</span> here
+          Schools That <span className="font-alt">Said Yes</span> to the Future
           </h3>
           <p className="mb-0">
-            Suspendisse pellentesque mi non ipsum finibus vestibulum. Vestibulum
-            posuere magna auctor malesuada scelerisque. Sed sed sem id magna
-            congue interdum et sit amet leo. Praesent sit amet ipsum orci. Fusce
-            faucibus nibh at quam facilisis venenatis posuere non quis lacus.
+          These forward-thinking schools are reimagining education from the ground up—empowering teachers with smart tools, engaging students with personalized learning, and keeping parents connected like never before. Together, we’re building hubs of transformation.
           </p>
         </div>
       </div>

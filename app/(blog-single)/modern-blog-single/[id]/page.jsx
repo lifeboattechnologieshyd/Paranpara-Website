@@ -115,29 +115,42 @@ export default async function ModernBlogSinglePage(props) {
                           <div className="blog-media mb-40 mb-xs-30">
                             <Slider3 />
                           </div>
-                          <p className="lead">
-                            Morbi lacus massa, euismod ut turpis molestie,
-                            tristique sodales est. Integer sit amet mi id sapien
-                            tempor molestie in nec massa. Fusce non ante sed
-                            lorem rutrum feugiat.
+                          <h4>Welcome to the Future of Learning:</h4>
+                          <p>
+                            Imagine a world where every learner—regardless of
+                            age, background, or pace—receives the exact
+                            education they need, when they need it. At ParanPara
+                            Pvt. Ltd., this isn’t just imagination. It’s
+                            happening.
+                          </p>
+                          <h4>
+                            
+                            Why Traditional Learning No Longer Works for All:
+                          </h4>
+                          <p>
+                            The one-size-fits-all approach to education is
+                            showing its age. Students today need more than
+                            textbooks and chalkboards—they need engagement,
+                            personalization, and real-time growth tracking. And
+                            that’s where ParanPara steps in.
+                          </p>
+                          <h4>Enter the AI-Powered Classroom:</h4>
+                          <p>
+                            With our ParanPara Education Guarantee Initiative,
+                            we’ve built an AI-powered daily learning system that
+                            evolves with each learner. From curated lessons to
+                            interactive challenges and real-time feedback, our
+                            tech creates a personalized journey that empowers
+                            every child.
                           </p>
                           <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Mauris non laoreet dui. Morbi lacus massa,
-                            euismod ut turpis molestie, tristique sodales est.
-                            Integer sit amet mi id sapien tempor molestie in nec
-                            massa.
+                            Whether it’s Critical Thinking, Financial Literacy,
+                            or Public Speaking, our AI understands a child's
+                            learning needs and adjusts accordingly—ensuring
+                            consistent academic progress and real-world skill
+                            development.
                           </p>
-                          <p>
-                            Fusce non ante sed lorem rutrum feugiat. Vestibulum
-                            pellentesque, purus ut&nbsp;dignissim consectetur,
-                            nulla erat ultrices purus, ut&nbsp;consequat sem
-                            elit non sem. Morbi lacus massa, euismod ut turpis
-                            molestie, tristique sodales est. Integer sit amet mi
-                            id sapien tempor molestie in nec massa. Fusce non
-                            ante sed lorem rutrum feugiat.
-                          </p>
-                          <blockquote>
+                          {/* <blockquote>
                             <p>
                               Lorem ipsum dolor sit amet, consectetur adipiscing
                               elit. Integer posuere erat a&nbsp;ante. Vestibulum
@@ -148,31 +161,42 @@ export default async function ModernBlogSinglePage(props) {
                               Someone famous in
                               <cite title="Source Title"> Source Title </cite>
                             </footer>
-                          </blockquote>
+                          </blockquote> */}
+                          <h4> Beyond Just Learning—We Create Ecosystems:</h4>
                           <p>
-                            Praesent ultricies ut ipsum non laoreet. Nunc ac
-                            <a href="#">ultricies</a> leo. Nulla ac ultrices
-                            arcu. Nullam adipiscing lacus in consectetur
-                            posuere. Nunc malesuada tellus turpis, ac pretium
-                            orci molestie vel. Morbi lacus massa, euismod ut
-                            turpis molestie, tristique sodales est. Integer sit
-                            amet mi id sapien tempor molestie in nec massa.
-                            Fusce non ante sed lorem rutrum feugiat.
+                            Education isn’t a solo act. At ParanPara, we believe
+                            in collaboration—between students, educators, and
+                            parents. Our AI tools don’t just track performance;
+                            they build bridges between home and school, making
+                            learning transparent, collaborative, and measurable.
                           </p>
-                          <ul>
-                            <li>First item of the list</li>
-                            <li>Second item of the list</li>
-                            <li>Third item of the list</li>
-                          </ul>
+
+                          <h4> Future-Proofing Young Minds</h4>
                           <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Mauris non laoreet dui. Morbi lacus massa,
-                            euismod ut turpis molestie, tristique sodales est.
-                            Integer sit amet mi id sapien tempor molestie in nec
-                            massa. Fusce non ante sed lorem rutrum feugiat.
-                            Vestibulum pellentesque, purus ut&nbsp;dignissim
-                            consectetur, nulla erat ultrices purus,
-                            ut&nbsp;consequat sem elit non sem.
+                            Aligned with our vision of a future-proof learning
+                            ecosystem, our mission is to provide guaranteed,
+                            structured, and joyful learning to every child. The
+                            future demands adaptability, creativity, empathy,
+                            and tech fluency—and we are preparing children for
+                            it right from kindergarten.
+                          </p>
+
+                          <h4> Education. Redesigned.</h4>
+                          <p>
+                            We’re not just teaching. We’re engineering a
+                            revolution—where every child is equipped, every
+                            teacher is empowered, and every school is a center
+                            of excellence. At ParanPara, the future of education
+                            is now—AI-powered, personalized, and purpose-driven.
+                          </p>
+
+                          <h4>
+                            Ready to explore the future of learning with
+                            ParanPara?
+                          </h4>
+                          <p>
+                            Let’s connect, collaborate, educate, and
+                            support—together.
                           </p>
                         </div>
                       </div>
