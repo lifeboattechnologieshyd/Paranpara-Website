@@ -30,7 +30,7 @@ export default function Hero1() {
               </div>
               <div className="col-sm-6 col-md-5 text-center text-sm-end local-scroll">
                 <a
-                  href="#about"
+                  // href="#about"
                   className="btn btn-mod btn-w btn-large btn-round btn-hover-anim"
                 >
                   <span>Discover Now</span>

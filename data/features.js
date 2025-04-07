@@ -176,7 +176,6 @@ export const featuresData = [
     desc: `The Family First app turns parenting into a connected, empowering experience. Manage routines, assign tasks, track learning, and stay in sync with your child’s development, every day. Connect with fellow parents, engage with professionals, and get edutained yourself along the way.`,
     iconPath:
       "M24 8c13.25 0 24 9.625 24 21.375 0 7.375-6 13.25-13.375 13.25h-4.75c-2.25 0-4 1.75-4 4 0 1.125 0.375 2.125 1 2.75s1.125 1.5 1.125 2.625c0 2.25-1.75 4-4 4-13.25 0-24-10.75-24-24s10.75-24 24-24zM9.375 32c2.25 0 4-1.75 4-4s-1.75-4-4-4-4 1.75-4 4 1.75 4 4 4zM17.375 21.375c2.25 0 4-1.75 4-4s-1.75-4-4-4-4 1.75-4 4 1.75 4 4 4zM30.625 21.375c2.25 0 4-1.75 4-4s-1.75-4-4-4-4 1.75-4 4 1.75 4 4 4zM38.625 32c2.25 0 4-1.75 4-4s-1.75-4-4-4-4 1.75-4 4 1.75 4 4 4z",
-  
     },
   {
     parentClass: "mt-n140 mt-sm-0 mb-0",

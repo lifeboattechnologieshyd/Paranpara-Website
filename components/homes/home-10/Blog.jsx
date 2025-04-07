@@ -17,7 +17,7 @@ export default function Blog() {
           </p>
           <div className="local-scroll">
             <Link
-              href={`/strong-blog`}
+              href={`/`}
               className="btn btn-mod btn-white btn-large btn-round btn-hover-anim"
             >
               <span>View Blog</span>

@@ -113,14 +113,11 @@ export default function Home10({ onePage = false, dark = false }) {
                 ) : (
                   <>
                     <Link
-                      href={`/strong-about${dark ? "-dark" : ""}`}
-                      className="btn btn-mod btn-white btn-large btn-round btn-hover-anim"
-                    >
-                      <span>
-                        Learn More
-                        <span className="visually-hidden">About Us</span>
-                      </span>
-                    </Link>
+                        href={`/${dark ? "-dark" : ""}`}
+                        className="btn btn-mod btn-white btn-large btn-round btn-hover-anim"
+                      >
+                        <span>Learn More</span>
+                      </Link>
                   </>
                 )}
               </div>
@@ -169,7 +166,7 @@ export default function Home10({ onePage = false, dark = false }) {
                     <>
                       {" "}
                       <a
-                        href="#contact"
+                        // href="#contact"
                         className="btn btn-mod btn-white btn-large btn-round btn-hover-anim"
                       >
                         <span>Join our Team</span>
@@ -179,7 +176,7 @@ export default function Home10({ onePage = false, dark = false }) {
                     <>
                       {" "}
                       <Link
-                        href={`/strong-contact${dark ? "-dark" : ""}`}
+                        href={`/${dark ? "-dark" : ""}`}
                         className="btn btn-mod btn-white btn-large btn-round btn-hover-anim"
                       >
                         <span>Join our Team</span>
@@ -274,7 +271,7 @@ export default function Home10({ onePage = false, dark = false }) {
                   ) : (
                     <>
                       <Link
-                        href={`/strong-contact${dark ? "-dark" : ""}`}
+                        href={`/${dark ? "-dark" : ""}`}
                         className="btn btn-mod btn-white btn-w btn-large btn-round btn-hover-anim"
                       >
                         <span>Start a Project</span>
