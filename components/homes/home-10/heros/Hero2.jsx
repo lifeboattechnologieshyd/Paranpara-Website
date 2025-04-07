@@ -19,14 +19,14 @@ export default function Hero2() {
             </h1>
             <div className="local-scroll wow fadeInUp" data-wow-delay="0.65s">
               <a
-                href="#about"
+                href=""
                 className="btn btn-mod btn-border-w btn-large btn-round ms-1 me-1 mt-2"
                 data-btn-animate="y"
               >
                 Discover Now
               </a>
               <a
-                href="#portfolio"
+                href=""
                 className="btn btn-mod btn-w btn-large btn-round ms-1 me-1 mt-2"
                 data-btn-animate="y"
               >
