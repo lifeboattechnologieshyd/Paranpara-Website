@@ -21,39 +21,40 @@ export default function LanguageSelect() {
   };
 
   return (
-    <li className="languageSelect">
-      <a
-        href="#"
-        className="mn-has-sub opacity-1"
-        onClick={(e) => {
-          e.preventDefault();
-          toggleDropdown();
-        }}
-      >
-        {selectedLanguage} <i className="mi-chevron-down" />
-      </a>
+    <></>
+    // <li className="languageSelect">
+    //   <a
+    //     href="#"
+    //     className="mn-has-sub opacity-1"
+    //     onClick={(e) => {
+    //       e.preventDefault();
+    //       toggleDropdown();
+    //     }}
+    //   >
+    //     {selectedLanguage} <i className="mi-chevron-down" />
+    //   </a>
 
-      {/* Dropdown menu with sliding effect */}
-      <ul
-        className={`mn-sub to-left ${isDropdownOpen ? "open" : "closed"}`}
-        ref={dropdownRef}
-      >
-        <li>
-          <a href="#" onClick={() => handleLanguageSelect("En")}>
-            English
-          </a>
-        </li>
-        <li>
-          <a href="#" onClick={() => handleLanguageSelect("Fr")}>
-            French
-          </a>
-        </li>
-        <li>
-          <a href="#" onClick={() => handleLanguageSelect("De")}>
-            German
-          </a>
-        </li>
-      </ul>
-    </li>
+    //   {/* Dropdown menu with sliding effect */}
+    //   <ul
+    //     className={`mn-sub to-left ${isDropdownOpen ? "open" : "closed"}`}
+    //     ref={dropdownRef}
+    //   >
+    //     <li>
+    //       <a href="#" onClick={() => handleLanguageSelect("En")}>
+    //         English
+    //       </a>
+    //     </li>
+    //     <li>
+    //       <a href="#" onClick={() => handleLanguageSelect("Fr")}>
+    //         French
+    //       </a>
+    //     </li>
+    //     <li>
+    //       <a href="#" onClick={() => handleLanguageSelect("De")}>
+    //         German
+    //       </a>
+    //     </li>
+    //   </ul>
+    // </li>
   );
 }
