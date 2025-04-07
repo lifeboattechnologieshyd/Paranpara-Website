@@ -7,9 +7,9 @@ import dynamic from "next/dynamic";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
   title:
-    "Home 10 Main Demo MultiPage || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Paranpara Education Policy Pvt Ltd",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "",
 };
 export default function Home10MainDemoMultiPage() {
   return (

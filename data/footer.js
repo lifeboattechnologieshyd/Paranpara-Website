@@ -31,21 +31,11 @@ export const socialLinks = [
 ];
 
 export const socialMediaLinks = [
-  {
-    href: "#",
-    title: "Facebook",
-    iconClass: "fa-facebook-f",
-    name: "Facebook",
-  },
-  { href: "#", title: "Skype", iconClass: "fa-skype", name: "Skype" },
-  {
-    href: "#",
-    title: "Pinterest",
-    iconClass: "fa-pinterest",
-    name: "Pinterest",
-  },
-  { href: "#", title: "Behance", iconClass: "fa-behance", name: "Behance" },
-  { href: "#", title: "Dribbble", iconClass: "fa-dribbble", name: "Dribbble" },
+  { href: "#", title: "Facebook", iconClass: "fa-facebook", name: "Facebook" },
+  { href: "#", title: "Instagram", iconClass: "fa-instagram", name: "Instagram" },
+  { href: "#", title: "LinkedIn", iconClass: "fa-linkedin", name: "LinkedIn" },
+  { href: "#", title: "YouTube", iconClass: "fa-youtube", name: "YouTube" },
+  { href: "#", title: "Twitter", iconClass: "fa-twitter", name: "Twitter" }
 ];
 
 export const navigationLinks = [

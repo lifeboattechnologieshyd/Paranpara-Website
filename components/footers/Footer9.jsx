@@ -52,7 +52,7 @@ export default function Footer9() {
       </div>
       {/* Footer Text */}
       <div className="footer-text text-center opacity-75 mt-n10 pb-50">
-        Made with love for great people.
+      Paranpara Education Policy Pvt Ltd
         <div className="small">
           Read <a href="#">Terms &amp; Conditions</a> and{" "}
           <a href="#">Privacy Policy</a>.
