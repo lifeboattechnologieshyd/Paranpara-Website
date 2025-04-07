@@ -87,7 +87,6 @@
 //   );
 // }
 
-
 import Footer9 from "@/components/footers/Footer9";
 import Header10 from "@/components/headers/Header10";
 import Home10 from "@/components/homes/home-10";
@@ -97,11 +96,9 @@ import { strongMultiPages } from "@/data/menu";
 import dynamic from "next/dynamic";
 import ParallaxContainer from "@/components/common/ParallaxContainer";
 export const metadata = {
-  title:
-    "Paranpara Education Policy Pvt Ltd"
-,
+  title: "Paranpara Education Policy Pvt Ltd",
   description:
-    "",
+    "ParanPara Education - Smarter Solutions for Smarter Education & Strong Futures",
 };
 export default function Home10ImageParallaxMultiPage() {
   return (
@@ -117,8 +114,7 @@ export default function Home10ImageParallaxMultiPage() {
             <ParallaxContainer
               className="home-section bg-dark-alpha-30 light-content parallax-5 scrollSpysection"
               style={{
-                backgroundImage:
-                  "url(/assets/images/hero-1.jpg)",
+                backgroundImage: "url(/assets/images/hero-1.jpg)",
               }}
               id="home"
             >
@@ -138,4 +134,3 @@ export default function Home10ImageParallaxMultiPage() {
     </>
   );
 }
-
