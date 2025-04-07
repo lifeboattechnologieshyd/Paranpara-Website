@@ -1,16 +1,16 @@
 export const strongMultiPages = [
   { href: "/strong-multi-page", text: "Home", className: "active"},
-  // { href: "/strong-multi-page", text: "About",  },
-  // { href: "/strong-multi-page", text: "Services" },
-  // { href: "/strong-multi-page", text: "Portfolio" },
-  // { href: "/strong-multi-page", text: "Blog" },
-  // { href: "/strong-multi-page", text: "Contact" },
+  { href: "", text: "About",  },
+  { href: "", text: "Services" },
+  { href: "", text: "Portfolio" },
+  { href: "", text: "Blog" },
+  { href: "", text: "Contact" },
 
-  { href: "/strong-about", text: "About", className: "active" },
-  { href: "/strong-services", text: "Services" },
-  { href: "/strong-portfolio", text: "Portfolio" },
-  { href: "/strong-blog", text: "Blog" },
-  { href: "/strong-contact", text: "Contact" },
+  // { href: "/strong-about", text: "About", className: "active" },
+  // { href: "/strong-services", text: "Services" },
+  // { href: "/strong-portfolio", text: "Portfolio" },
+  // { href: "/strong-blog", text: "Blog" },
+  // { href: "/strong-contact", text: "Contact" },
 ];
 export const strongMultiPagesDark = [
   { href: "/strong-multi-page-dark", text: "Home" },
