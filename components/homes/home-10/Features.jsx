@@ -44,15 +44,13 @@ export default function Features() {
                   <div className="position-relative">
                     <div className="features-1-number">{item.number}</div>
                     <div className="features-1-icon">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="64"
-                        height="64"
-                        viewBox="0 0 64 64"
-                        aria-hidden="true"
-                      >
-                        <path d={item.iconPath} />
-                      </svg>
+                    <img 
+  src={item.image} 
+  alt="Teacher Icon" 
+  width={64} 
+  height={64} 
+  aria-hidden="true" 
+/>
                     </div>
                     <div className="features-1-title mb-40">
                       {item.title1} <br />

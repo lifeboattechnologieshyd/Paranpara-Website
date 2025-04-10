@@ -55,7 +55,7 @@ export const slickOnepage = [
 ];
 
 export const modernMultipage = [
-  { id: 1, href: "/modern-multi-page", text: "Home" },
+  { id: 1, href: "/", text: "Home" },
   { id: 2, href: "/modern-about", text: "About", className: "active" },
   { id: 3, href: "/modern-services", text: "Services" },
   { id: 4, href: "/modern-portfolio", text: "Portfolio" },
