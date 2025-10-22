@@ -192,6 +192,23 @@ export const featuresData = [
     },
 ];
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 export const featuresListData = [
   { text: "Beyond Academics" },
   { text: "Trackable Impact" },
