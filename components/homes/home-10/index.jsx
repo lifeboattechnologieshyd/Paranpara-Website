@@ -54,9 +54,10 @@ export default function Home10({ onePage = false, dark = false }) {
             <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
               <h2 className="section-caption-border">About ParanPara</h2>
               <h3 className="section-title-strong mb-90 mb-sm-50">
-              Smart Solutions <span className="font-alt">for</span> Smarter Education
+                Smart Solutions <span className="font-alt">for</span> Smarter
+                Education
                 <span className="font-alt"> &</span> Stronger Futures
-              </h3>   
+              </h3>
             </div>
           </div>
 
@@ -77,7 +78,7 @@ export default function Home10({ onePage = false, dark = false }) {
                   <Image
                     width={500}
                     height={692}
-                    src="/assets/images/BIGMASTER.jpg"   // group of creaters left - front
+                    src="/assets/images/BIGMASTER.jpg" // group of creaters left - front
                     alt="Image description"
                     className="wow scaleOutIn"
                     data-wow-duration="1.2s"
@@ -90,10 +91,16 @@ export default function Home10({ onePage = false, dark = false }) {
             <div className="col-sm-8 col-lg-6 col-xl-4 offset-xl-1 mt-n10">
               <div className="wow linesAnimIn" data-splitting="lines">
                 <p className="lead mt-0 mb-40">
-                Our founder,Dr.J.S.Paranjyothi, has dedicated over 40 years to advancing education, equipping lakhs of students and educators with the skills, discipline, and confidence to succeed.
+                  Our founder,Dr.J.S.Paranjyothi, has dedicated over 40 years to
+                  advancing education, equipping lakhs of students and educators
+                  with the skills, discipline, and confidence to succeed.
                 </p>
                 <p className="mb-40">
-                At ParanPara, we go beyond academics—fostering discipline, confidence, and career growth through advanced global learning techniques. We leverage AI-powered apps and platforms to equip schools, teachers, and parents with smarter tools to shape future-ready students.
+                  At ParanPara, we go beyond academics—fostering discipline,
+                  confidence, and career growth through advanced global learning
+                  techniques. We leverage AI-powered apps and platforms to equip
+                  schools, teachers, and parents with smarter tools to shape
+                  future-ready students.
                 </p>
               </div>
 
@@ -113,12 +120,12 @@ export default function Home10({ onePage = false, dark = false }) {
                 ) : (
                   <>
                     <Link
-                        // href={`/${dark ? "-dark" : ""}`}
-                        href=""
-                        className="btn btn-mod btn-white btn-large btn-round btn-hover-anim"
-                      >
-                        <span>Learn More</span>
-                      </Link>
+                      // href={`/${dark ? "-dark" : ""}`}
+                      href=""
+                      className="btn btn-mod btn-white btn-large btn-round btn-hover-anim"
+                    >
+                      <span>Learn More</span>
+                    </Link>
                   </>
                 )}
               </div>
@@ -155,12 +162,14 @@ export default function Home10({ onePage = false, dark = false }) {
             */}
             <div className="col-xl-5 d-flex align-items-center team-1-column-sticky mb-lg-90 mb-sm-50">
               <div>
-                <h2 className="section-caption-border">OUR SOLUTIONS</h2>  
+                <h2 className="section-caption-border">OUR SOLUTIONS</h2>
                 <h3 className="section-title-strong mb-40">
-                Smarter<span className="font-alt">Approach to</span> Education
-                </h3>  
+                  Smarter<span className="font-alt">Approach to</span> Education
+                </h3>
                 <p className="mb-40">
-                From school management to family enrichment, and from curriculum innovation to teacher training, ParanPara delivers transformative solutions.
+                  From school management to family enrichment, and from
+                  curriculum innovation to teacher training, ParanPara delivers
+                  transformative solutions.
                 </p>
                 <div className="local-scroll">
                   {onePage ? (
@@ -195,8 +204,6 @@ export default function Home10({ onePage = false, dark = false }) {
         visit team component
         
         */}
-
-
             </div>
             {/* End Right Column */}
           </div>
@@ -214,9 +221,9 @@ export default function Home10({ onePage = false, dark = false }) {
             <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
               <h2 className="section-caption-border">The ParanPara Way</h2>
               <h3 className="section-title-strong mb-90 mb-sm-50">
-              Not Just 
-                <span className="font-alt"> Education</span> Total Transformation
-                
+                Not Just
+                <span className="font-alt"> Education</span> Total
+                Transformation
               </h3>
             </div>
           </div>
@@ -253,11 +260,13 @@ export default function Home10({ onePage = false, dark = false }) {
               {/* End Decorative Dots */}
               <div>
                 <h2 className="section-title mb-30">
-                Let’s Build the 
-                  <span className="font-alt"> Future</span>  of Learning.?
+                  Let’s Build the
+                  <span className="font-alt"> Future</span> of Learning.?
                 </h2>
                 <p className="mb-50">
-                Join us in creating smart, engaging, and impactful education for every student. Get on our tech platforms and give us a chance to demonstrate how we can transform learning and lives.
+                  Join us in creating smart, engaging, and impactful education
+                  for every student. Get on our tech platforms and give us a
+                  chance to demonstrate how we can transform learning and lives.
                 </p>
                 <div className="local-scroll">
                   {onePage ? (
@@ -306,7 +315,8 @@ export default function Home10({ onePage = false, dark = false }) {
         }`}
         id="portfolio"
       >
-        <Portfolio />  {/*
+        <Portfolio />{" "}
+        {/*
         visit portfolio component
         visit porfolio.js to upload images 
         
@@ -350,10 +360,14 @@ export default function Home10({ onePage = false, dark = false }) {
               {/* End Decorative Dots */}
               <div>
                 <h2 className="section-title mb-30">
-                Why ParanPara Is   <span className="font-alt">the Right Partner</span> for You!,
+                  Why ParanPara Is{" "}
+                  <span className="font-alt">the Right Partner</span> for You!,
                 </h2>
                 <p className="mb-50">
-                Whether you’re a school looking to upgrade, a teacher aiming to make a deeper impact, or a parent wanting the best for your child. We are here to support you with our powerful tech & proven experience,
+                  Whether you’re a school looking to upgrade, a teacher aiming
+                  to make a deeper impact, or a parent wanting the best for your
+                  child. We are here to support you with our powerful tech &
+                  proven experience,
                 </p>
                 {/* Features List */}
                 <div className="row mt-n20">
@@ -406,10 +420,15 @@ export default function Home10({ onePage = false, dark = false }) {
           <div className="row mb-90 mb-sm-50">
             <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
               <h2 className="section-title-strong mb-40">
-              Impact  <span className="font-alt">in Action</span>
+                Impact <span className="font-alt">in Action</span>
               </h2>
               <p className="mb-0">
-              We’re building more than just learning systems—we’re building trust, impact, and futures together. These stories come from the people who matter most: parents, teachers, and school leaders. Each one is a reflection of how ParanPara is helping children grow with confidence, clarity, and purpose—at home, in class, and beyond.
+                We’re building more than just learning systems—we’re building
+                trust, impact, and futures together. These stories come from the
+                people who matter most: parents, teachers, and school leaders.
+                Each one is a reflection of how ParanPara is helping children
+                grow with confidence, clarity, and purpose—at home, in class,
+                and beyond.
               </p>
             </div>
           </div>
@@ -430,7 +449,7 @@ export default function Home10({ onePage = false, dark = false }) {
       >
         <Blog />
 
-       {/*
+        {/*
           
           go to BLOGS component
           */}
@@ -438,13 +457,12 @@ export default function Home10({ onePage = false, dark = false }) {
       <section
         className="page-section bg-dark-1 light-content"
         style={{
-          backgroundImage:
-            "url(/assets/images/bg.jpg)", // background image between LATEST NEWS and LETS WORK TOGETHER
+          backgroundImage: "url(/assets/images/bg.jpg)", // background image between LATEST NEWS and LETS WORK TOGETHER
         }}
       >
         <Newsletter />
 
-         {/*
+        {/*
           
           go to NEWSLETTER component
           */}
@@ -456,7 +474,7 @@ export default function Home10({ onePage = false, dark = false }) {
         id="contact"
       >
         <Contact />
-         {/*
+        {/*
           
           go to contact component
           */}
