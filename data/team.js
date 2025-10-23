@@ -80,7 +80,7 @@ export const teamMembers3 = [
     role: "Empowering Schools",
     description:
       "Streamline administration, support teachers, engage parents, and enhance student learning—all in one platform",
-    imgSrc: "/assets/images/school-first.jpg",
+    imgSrc: "/assets/images/school-first-1.jpg",
   },
   {
     name: "FamiliFirst",

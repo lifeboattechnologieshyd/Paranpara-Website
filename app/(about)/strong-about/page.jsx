@@ -63,7 +63,7 @@ export default function StrongAboutPage() {
                         <Image
                           width={500}
                           height={692}
-                          src="/assets/images/demo-strong/section-image-1.jpg"
+                          src="/assets/images/demo-strong/section-image-1.jpg" // resonance -> left -> back 
                           alt="Image description"
                           className="wow scaleOutIn"
                           data-wow-duration="1.2s"
@@ -73,7 +73,7 @@ export default function StrongAboutPage() {
                         <Image
                           width={500}
                           height={692}
-                          src="/assets/images/demo-strong/section-image-2.jpg"
+                          src="/assets/images/demo-strong/section-image-2.jpg"  // resonance -> left -> front
                           alt="Image description"
                           className="wow scaleOutIn"
                           data-wow-duration="1.2s"
@@ -121,7 +121,7 @@ export default function StrongAboutPage() {
                       <Image
                         width={330}
                         height={894}
-                        src="/assets/images/demo-strong/section-image-3.jpg"
+                        src="/assets/images/demo-strong/section-image-3.jpg" // resonance -> right 
                         alt="Image description"
                         className="wow scaleOutIn"
                         data-wow-duration="1.2s"
@@ -238,7 +238,7 @@ export default function StrongAboutPage() {
                     <Image
                       width={1100}
                       height={930}
-                      src="/assets/images/demo-strong/split-image-2.jpg"
+                      src="/assets/images/demo-strong/split-image-2.jpg"  // responsive left image
                       alt="Image Description"
                     />
                     {/* Circle Text */}
