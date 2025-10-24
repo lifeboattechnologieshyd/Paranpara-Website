@@ -44,6 +44,12 @@ export default function Team() {
               {member.name.split(" ").map((part, idx) => (
                 <React.Fragment key={idx}>
                   {part}
+
+
+
+
+
+                  
                   <br className="d-sm-none" />
                 </React.Fragment>
               ))}
