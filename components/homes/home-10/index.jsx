@@ -147,7 +147,7 @@ export default function Home10({ onePage = false, dark = false }) {
         </div>
       </section>
       <hr className={`mt-0 mb-0 ${dark ? "white" : ""} `} />
-      <section
+      {/* <section
         className={`page-section  scrollSpysection  ${
           dark ? "bg-dark-1 light-content" : ""
         }`}
@@ -155,11 +155,7 @@ export default function Home10({ onePage = false, dark = false }) {
       >
         <div className="container">
           <div className="row">
-            {/* Left Column 
-            
-            FOR IMAGES GO TO TEAM.JS
-            
-            */}
+          
             <div className="col-xl-5 d-flex align-items-center team-1-column-sticky mb-lg-90 mb-sm-50">
               <div>
                 <h2 className="section-caption-border">OUR SOLUTIONS</h2>
@@ -196,19 +192,15 @@ export default function Home10({ onePage = false, dark = false }) {
                 </div>
               </div>
             </div>
-            {/* End Left Column */}
-            {/* Right Column */}
+         
             <div className="col-xl-6 offset-xl-1">
               <Team />
-              {/*
-        visit team component
-        
-        */}
+         
             </div>
-            {/* End Right Column */}
+         
           </div>
         </div>
-      </section>
+      </section> */}
       <hr className={`mt-0 mb-0 ${dark ? "white" : ""} `} />
       <section
         className={`page-section  scrollSpysection  ${
