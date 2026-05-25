@@ -1,0 +1,90 @@
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Scrollbars inside QR Portal */
+.qr-portal-container ::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+.qr-portal-container ::-webkit-scrollbar-track {
+  background: transparent;
+}
+.qr-portal-container ::-webkit-scrollbar-thumb {
+  background: rgba(139, 92, 246, 0.15);
+  border-radius: 9999px;
+  transition: all 0.3s;
+}
+.qr-portal-container ::-webkit-scrollbar-thumb:hover {
+  background: rgba(139, 92, 246, 0.4);
+}
+
+/* Glassmorphism Styles Scoped for the Portal */
+.glass {
+  background: rgba(255, 255, 255, 0.45);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.04);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.05);
+}
+
+/* Grid Dots Background for Hero & Dashboard */
+.bg-grid-dots {
+  background-image: radial-gradient(rgba(99, 102, 241, 0.08) 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+}
+
+/* QR Code Grid Background */
+.bg-qr-pattern {
+  background-size: 20px 20px;
+  background-image: 
+    linear-gradient(to right, rgba(0, 0, 0, 0.02) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.02) 1px, transparent 1px);
+}
+
+/* Local resets and overrides inside the QR Portal to bypass Bootstrap/browser defaults */
+.qr-portal-container select,
+.qr-portal-container input,
+.qr-portal-container button {
+  font-family: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif !important;
+  box-sizing: border-box !important;
+}
+
+/* Force override selects to fix double chevrons and guarantee light-theme readability */
+.qr-portal-container select {
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  background-image: none !important;
+  background-color: #ffffff !important;
+  color: #1e293b !important; /* slate-800 */
+}
+
+/* Options dropdown light theme styling reset */
+.qr-portal-container select option {
+  background-color: #ffffff !important;
+  color: #1e293b !important;
+}
+
+/* Reset only browser-default button appearance without stripping Tailwind utility classes */
+.qr-portal-container button {
+  font-family: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif !important;
+  box-sizing: border-box !important;
+  cursor: pointer;
+}
+
+/* Fix icon vertical alignment inside flex buttons and labels */
+.qr-portal-container button svg,
+.qr-portal-container label svg {
+  display: inline-block;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+

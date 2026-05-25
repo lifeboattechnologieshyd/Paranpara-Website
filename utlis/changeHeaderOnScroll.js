@@ -2,6 +2,7 @@ export const headerChangeOnScroll = () => {
   var mainNav = document.querySelector(".main-nav");
   var navLogoWrapLogo = document.querySelector(".nav-logo-wrap .logo");
   var lightAfterScroll = document.querySelector(".light-after-scroll");
+  if (!mainNav) return; // Safeguard for pages where header is hidden/not rendered
   if (window.scrollY > 0) {
     mainNav.classList.remove("transparent");
     mainNav.classList.add("small-height", "body-scrolled");
